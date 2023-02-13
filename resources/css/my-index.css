@@ -1,0 +1,16 @@
+body {
+  background-color: chocolate;
+}
+h1 { 
+  color: crimson;
+}
+
+p {
+  color: coral;
+}
+ 
+main {
+  max-width: 70ch;
+  padding: 2ch;
+  margin: auto;
+}
